@@ -58,7 +58,6 @@
 
 
     .home{
-        background-color: rgb(31, 66, 45);
         height: 100%;
     }
 
@@ -192,7 +191,6 @@
 
 
     .home{
-        background-color: rgb(31, 66, 45);
         height: 100%;
     }
 
@@ -341,7 +339,6 @@
     }
     
     .logo{
-        background-color: rgb(31, 66, 45);
         color: whitesmoke;
         font-family: "excluded-font";
         font-size: xx-large;
@@ -448,7 +445,6 @@
     }
 
     .home{
-        background-color: rgb(31, 66, 45);
         height: 100%;
         width: 100%;
         overflow: hidden;
@@ -468,7 +464,6 @@
     }
     
     .logo{
-        background-color: rgb(31, 66, 45);
         color: whitesmoke;
         font-family: "excluded-font";
         font-size: xx-large;
