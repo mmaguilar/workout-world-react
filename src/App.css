@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "excluded-font";
+  src: url("./assets/fonts/Excluded.ttf");
+}
+
+@font-face {
+  font-family: "excludedregular-font";
+  src: url("./assets/fonts/ExcludedRegular.ttf");
+}

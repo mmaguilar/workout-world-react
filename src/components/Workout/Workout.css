@@ -1,0 +1,299 @@
+@media only screen and (max-width: 320px) { 
+    .description{
+        color:white;
+        display: flex;
+        font-family: "excludedregular-font";
+        font-size: small;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 1%; 
+        justify-content: center; 
+        text-align: center;
+    }
+    
+    .detailSection{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .equipmentDetail{
+        color: rgb(1, 239, 243);
+    }
+
+    .favoritesSection{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0%;
+        padding-bottom: 100%;
+    }
+
+    .muscleDetail{
+        color: rgb(0, 219, 44);
+    }
+
+    .noFavorites{
+        align-self: center;
+        font-family: "excludedregular-font";
+        padding-top: 5%;
+        padding-bottom: 100%;
+    }
+    
+    .workout{
+        align-self: center;
+        background-color: rgb(31, 66, 45);
+        box-shadow: 2px 1px 10px black;
+        border-radius: 5px 5px;
+        display: flex;
+        flex-direction: row;
+        height: 200px;
+        justify-content: center;
+        margin: 2%;
+        width: 90%;
+    }
+    
+    .workoutImage{
+        box-shadow: 0px 0px 5px black;
+        height: 50%;
+        width:fit-content;
+    }
+    
+    .workoutName{
+        color:rgb(218, 251, 223);
+        font-family: "excluded-font";
+        font-size: large;
+        justify-content: center;
+        margin-top: 4%;
+        margin-bottom: 3%;
+        text-align: center;
+        text-shadow: 2px 1px 3px black;
+    }
+    
+}
+
+@media only screen and (min-width: 320px) { 
+    .description{
+        color:white;
+        display: flex;
+        font-family: "excludedregular-font";
+        font-size: medium;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 1%; 
+        justify-content: center; 
+        text-align: center;
+    }
+    
+    .detailSection{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .equipmentDetail{
+        color: rgb(1, 239, 243);
+    }
+
+    .favoritesSection{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0%;
+        padding-bottom: 110%;
+    }
+
+    .muscleDetail{
+        color: rgb(0, 219, 44);
+    }
+
+    .noFavorites{
+        align-self: center;
+        font-family: "excludedregular-font";
+        padding-top: 5%;
+        padding-bottom: 100%;
+    }
+
+    .workout{
+        align-self: center;
+        background-color: rgb(31, 66, 45);
+        box-shadow: 2px 1px 10px black;
+        border-radius: 5px 5px;
+        display: flex;
+        flex-direction: row;
+        height: 300px;
+        justify-content: center;
+        margin: 2%;
+        width: 90%;
+    }
+    
+    .workoutImage{
+        box-shadow: 0px 0px 5px black;
+        height: 60%;
+        width:fit-content;
+    }
+    
+    .workoutName{
+        color:rgb(218, 251, 223);
+        font-family: "excluded-font";
+        font-size: x-large;
+        justify-content: center;
+        margin-top: 4%;
+        margin-bottom: 3%;
+        text-align: center;
+        text-shadow: 2px 1px 3px black;
+    }
+}
+
+@media only screen and (min-width: 620px) { 
+    .description{
+        color:white;
+        display: flex;
+        font-family: "excludedregular-font";
+        font-size: small;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 1%; 
+        justify-content: center; 
+        text-align: center;
+    }
+    
+    .detailSection{
+        align-items: center;
+        display: flex;
+        font-size: small;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .equipmentDetail{
+        color: rgb(1, 239, 243);
+    }
+
+    .favoritesSection{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-bottom: 0%;
+        padding-bottom:calc();
+    }
+
+    .muscleDetail{
+        color: rgb(0, 219, 44);
+    }
+
+    .noFavorites{
+        font-family: "excludedregular-font";
+        margin-left: 40%;
+        margin-right: 40%;
+        padding-top: 5%;
+        padding-bottom: 100%;
+    }
+  
+    .workout{
+        background-color: rgb(31, 66, 45);
+        box-shadow: 2px 1px 10px black;
+        border-radius: 5px 5px;
+        display: flex;
+        flex-direction: row;
+        height: 200px;
+        justify-content: center;
+        margin: 1%;
+        width: 30%;
+    }
+    
+    .workoutImage{
+        box-shadow: 0px 0px 5px black;
+        height: 50%;
+        width:fit-content;
+    }
+    
+    .workoutName{
+        color:rgb(218, 251, 223);
+        font-family: "excluded-font";
+        font-size: large;
+        justify-content: center;
+        margin-top: 4%;
+        margin-bottom: 3%;
+        text-align: center;
+        text-shadow: 2px 1px 3px black;
+    }
+}
+
+@media only screen and (min-width: 900px) { 
+    .description{
+        color:white;
+        display: flex;
+        font-family: "excludedregular-font";
+        font-size: small;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: center; 
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    .detailSection{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .equipmentDetail{
+        color: rgb(1, 239, 243);
+    }
+
+    .favoritesSection{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-bottom: 0%;
+        padding-bottom:calc();
+    }
+
+    .muscleDetail{
+        color: rgb(0, 219, 44);
+    }
+
+    .noFavorites{
+        align-self: center;
+        font-family: "excludedregular-font";
+        margin-left: 40%;
+        margin-right: 40%;
+        padding-top: 5%;
+        padding-bottom: 100%;
+    }
+    
+    .workout{
+        background-color: rgb(31, 66, 45);
+        box-shadow: 2px 1px 10px black;
+        border-radius: 5px 5px;
+        display: flex;
+        flex-direction: row;
+        height: 200px;
+        justify-content: center;
+        margin: 1%;
+        width: 20%;
+    }
+    
+    .workoutImage{
+        box-shadow: 0px 0px 5px black;
+        height: 50%;
+        margin-top: 3%;
+        width:fit-content;
+    }
+    
+    .workoutName{
+        color:rgb(218, 251, 223);
+        font-family: "excluded-font";
+        font-size: large;
+        justify-content: center;
+        margin-top: 4%;
+        margin-bottom: 3%;
+        text-align: center;
+        text-shadow: 2px 1px 3px black;
+    }
+}
+

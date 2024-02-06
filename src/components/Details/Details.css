@@ -1,0 +1,371 @@
+@media (max-width: 320px){
+    .details{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .details .workoutName{
+        font-size: x-large;
+        margin-bottom: 2%;
+    }
+    
+    .detailsImage{
+        box-shadow: 1px 2px 10px black;
+        height: fit-content;
+        width: 90%;
+    }
+    
+    .detailsPage{
+        background-color: rgb(31, 66, 45);
+    }
+    
+    .difficulty{
+        color: rgb(235, 235, 0);
+        font-size: x-large;
+        font-family: "excluded-font";
+        margin: 3%;
+        text-align: center;
+    
+    }
+    
+    .equipment{
+        color: rgb(1, 239, 243);
+        font-size: large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .favoriteButton{
+        background-color:rgb(0, 149, 249);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        margin-top: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .instructions{
+        color:whitesmoke;
+        font-weight: bolder;
+        font-size: medium;
+        font-family: "Arial";
+        margin: 5%;
+        text-align: center;
+    }
+    
+    .muscle{
+        align-self: center;
+        color: rgb(0, 219, 44);
+        font-size: large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: inherit;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .type{
+        color: rgb(252, 153, 32);
+        font-size: large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    } 
+}
+
+@media (min-width: 320px){
+    .details{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .details .workoutName{
+        font-size: xx-large;
+        margin-bottom: 2%;
+    }
+    
+    .detailsImage{
+        box-shadow: 1px 2px 10px black;
+        height: fit-content;
+        width: 90%;
+    }
+    
+    .detailsPage{
+        background-color: rgb(31, 66, 45);
+    }
+    
+    .difficulty{
+        color: rgb(235, 235, 0);
+        font-size: xx-large;
+        font-family: "excluded-font";
+        margin: 3%;
+        text-align: center;
+    
+    }
+    
+    .equipment{
+        color: rgb(1, 239, 243);
+        font-size: x-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .favoriteButton{
+        background-color:rgb(0, 149, 249);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: x-large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        margin-top: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .instructions{
+        color:whitesmoke;
+        font-weight: bolder;
+        font-size: large;
+        font-family: "Arial";
+        margin: 5%;
+        text-align: center;
+    }
+    
+    .muscle{
+        color: rgb(0, 219, 44);
+        font-size: x-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: inherit;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .type{
+        color: rgb(252, 153, 32);
+        font-size: x-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }    
+}
+
+@media (min-width: 620px){
+    .details{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .details .workoutName{
+        font-size: 35px;
+        margin-bottom: 2%;
+    }
+    
+    .detailsImage{
+        box-shadow: 1px 2px 10px black;
+        height: fit-content;
+        width: 90%;
+    }
+    
+    .detailsPage{
+        background-color: rgb(31, 66, 45);
+    }
+    
+    .difficulty{
+        color: rgb(235, 235, 0);
+        font-size: 40px;
+        font-family: "excluded-font";
+        margin: 3%;
+        text-align: center;
+    }
+    
+    .equipment{
+        color: rgb(1, 239, 243);
+        font-size: xx-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .favoriteButton{
+        background-color:rgb(0, 149, 249);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: xx-large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        margin-top: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .instructions{
+        color:whitesmoke;
+        font-weight: bolder;
+        font-size: x-large;
+        font-family: "Arial";
+        margin: 5%;
+        text-align: center;
+    }
+    
+    .muscle{
+        color: rgb(0, 219, 44);
+        font-size: xx-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .type{
+        color: rgb(252, 153, 32);
+        font-size: xx-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }      
+}
+
+@media (min-width: 900px){
+    .details{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .details .workoutName{
+        font-size: 35px;
+        margin-bottom: 2%;
+    }
+    
+    .detailsImage{
+        box-shadow: 1px 2px 10px black;
+        height: fit-content;
+        width: 90%;
+    }
+    
+    .detailsPage{
+        background-color: rgb(31, 66, 45);
+    }
+    
+    .difficulty{
+        color: rgb(235, 235, 0);
+        font-size: 40px;
+        font-family: "excluded-font";
+        margin: 3%;
+        text-align: center;
+    }
+    
+    .equipment{
+        color: rgb(1, 239, 243);
+        font-size: xx-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .favoriteButton{
+        background-color:rgb(0, 149, 249);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: xx-large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        margin-top: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .instructions{
+        color:whitesmoke;
+        font-weight: bolder;
+        font-size: x-large;
+        font-family: "Arial";
+        margin: 5%;
+        text-align: center;
+    }
+    
+    .muscle{
+        color: rgb(0, 219, 44);
+        font-size: xx-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+    
+    .type{
+        color: rgb(252, 153, 32);
+        font-size: xx-large;
+        font-family: "excluded-font";
+        margin-top: 2%;
+    }  
+}
+

@@ -1,0 +1,223 @@
+@media (max-width: 320px){
+    .about{
+        margin: 0px;
+    }
+    
+    .aboutDescription{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bolder;
+        text-align: center;
+        text-align: center;
+    }
+    
+    .aboutImage{
+        align-self: center;
+        box-shadow: 1px 2px 5px black;
+        border-radius: 10px 10px;
+        height: 100%;
+        margin-bottom: 3%;
+        width: 90%;
+    }
+    
+    .aboutPage{
+        align-items: center;
+        background-color: rgb(190, 247, 228);
+    }
+    
+    .aboutSection{
+        margin-bottom: 3%;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 200%;
+        padding-top: 5%;
+    }
+    
+    .aboutTitle{
+        font-size: large;
+        text-align: center;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+}
+
+@media (min-width: 320px){
+    .about{
+        margin: 0px;
+    }
+    
+    .aboutDescription{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bolder;
+        text-align: center;
+        text-align: center;
+    }
+    
+    .aboutImage{
+        align-self: center;
+        box-shadow: 1px 2px 5px black;
+        border-radius: 10px 10px;
+        height: 100%;
+        margin-bottom: 3%;
+        width: 90%;
+    }
+    
+    .aboutPage{
+        align-items: center;
+        background-color: rgb(190, 247, 228);
+    }
+    
+    .aboutSection{
+        margin-bottom: 3%;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 200%;
+        padding-top: 5%;
+    }
+    
+    .aboutTitle{
+        font-size: large;
+        text-align: center;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+}
+
+@media (min-width: 620px){
+    .about{
+        margin: 0px;
+    }
+    
+    .aboutDescription{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bolder;
+        font-size: large;
+        margin: 1%;
+        text-align: center;
+        text-align: center;
+    }
+    
+    .aboutImage{
+        align-self: center;
+        box-shadow: 1px 2px 5px black;
+        border-radius: 10px 10px;
+        height: 100%;
+        margin-bottom: 3%;
+        width: 60%;
+    }
+    
+    .aboutPage{
+        align-items: center;
+        background-color: rgb(190, 247, 228);
+    }
+    
+    .aboutSection{
+        margin-bottom: 3%;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 200%;
+        padding-top: 5%;
+    }
+    
+    .aboutTitle{
+        font-size: x-large;
+        text-align: center;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+}
+
+@media (min-width: 900px){
+    .about{
+        margin: 0px;
+    }
+    
+    .aboutDescription{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bolder;
+        font-size: large;
+        margin: 1%;
+        text-align: center;
+        text-align: center;
+    }
+    
+    .aboutImage{
+        align-self: center;
+        box-shadow: 1px 2px 5px black;
+        border-radius: 10px 10px;
+        height: 100%;
+        margin-bottom: 3%;
+        width: 40%;
+    }
+    
+    .aboutPage{
+        align-items: center;
+        background-color: rgb(190, 247, 228);
+    }
+    
+    .aboutSection{
+        margin-bottom: 3%;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 200%;
+        padding-top: 1%;
+    }
+    
+    .aboutTitle{
+        font-size: x-large;
+        text-align: center;
+    }
+    
+    .returnButton{
+        background-color:rgb(89, 120, 110);
+        border: none;
+        border-radius: 5px 5px 5px;
+        box-shadow: 2px 2px 7px black;
+        color: white;
+        font-family: "excludedregular-font";
+        font-size: large;
+        height: fit-content;
+        margin: 1%;
+        margin-bottom: 3%;
+        text-shadow: 2px 1px 2px black;
+        width: fit-content;
+    }
+}
