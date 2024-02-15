@@ -1,0 +1,50 @@
+@media (max-width: 620px){
+    .navigation .desktop{
+        display: none;
+    }
+
+    .navigation .mobile{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    
+    .logo{
+        font-size: large;
+        padding: 2%;
+    } 
+
+    .burger-option{
+        color: white;
+        font-family: "excluded-font";
+        margin: 5%;
+        display: flex;
+        flex-direction: row;
+        font-size: x-large;
+    }
+}
+
+@media (min-width: 620px){
+    .navigation .mobile{
+        display: none;
+    }
+
+    .navigation .desktop{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .navigation .logo{
+        font-size: large;
+        padding: 2%;
+    } 
+
+    
+    .desktop .menu {
+        display: flex;
+    
+    }
+
+}
