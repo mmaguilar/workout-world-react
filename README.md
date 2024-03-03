@@ -2,8 +2,10 @@
 Workout World is a web application developed using MERN stack.
 
 ## About 
-This web app allows a user to filter workouts using a search and dropdown menus. Users can also choose to favorite workouts to reaccess them later. 
-Each workout has details about difficulty, muscle, type, and instructions.  
+Workout World is a fitness website powered by Node.js, Express, JavaScript, and MongoDB. 
+It offers users a platform to search for various types of workouts based on their preferences and fitness goals.
+With features like workout search, detailed workout listings, user interaction options, responsive design, and 
+MongoDB integration for efficient data storage. Workout World aims to provide users with a comprehensive fitness experience. 
 
 ## Technologies 
 MongoDB,
