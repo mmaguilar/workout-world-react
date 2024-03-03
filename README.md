@@ -1,6 +1,8 @@
 # Workout World - Web App
 Workout World is a web application developed using MERN stack.
 
+Backend Code: https://github.com/mmaguilar/workout-world-backend/tree/master
+
 ## About 
 Workout World is a fitness website powered by Node.js, Express, JavaScript, and MongoDB. 
 It offers users a platform to search for various types of workouts based on their preferences and fitness goals.
